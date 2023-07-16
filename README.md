@@ -11,8 +11,7 @@ Displays key match statistics and player information.
 User-friendly web interface for inputting match parameters and viewing predictions.
 Easily deployable on local machines or cloud platforms.
 
-## Demo
-IPL Win Predictor Demo 
+## Demo 
 ![website](https://github.com/ashitoshbp/IPL-Win-Predictor/assets/107021261/d30af2df-91c7-4ca8-b513-c959d54b9899)
 
 
